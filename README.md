@@ -3,6 +3,7 @@
 It is a Flutter mobile application that captures square photos while automatically recording compass direction, GPS coordinates, and timestamp in the filename.
 
 ![Sample Photo](./SamplePics/Time_06_29_Location_17.444756_78.350030_Angle_226.jpg)
+File Name: Time_06_29_Location_17.444756_78.350030_Angle_226.jpg
 
 ## Features
 
